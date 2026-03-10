@@ -1,0 +1,5 @@
+{
+  "name": "Breast Cancer Decision Support System (RU 2021)",
+  "description": "A clinical decision support system for breast cancer treatment based on the 2021 Russian Clinical Guidelines, featuring diagnostic synthesis, strategy planning, cardiotoxicity assessment, and toxicity management.",
+  "requestFramePermissions": []
+}
